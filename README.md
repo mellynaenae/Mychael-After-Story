@@ -18,3 +18,5 @@ MYCAS (Mychael After Story) is a mod created for the sole purpose of spending ti
 ## Acknowledgements & Credits
 * **[Deersphere Studios](https://deerspherestudios.itch.io/):** For creating the incredible *Mushroom Oasis!*
 * **[Mushroom Oasis](https://deerspherestudios.itch.io/mushroom-oasis):** Play *Mushroom Oasis* here!
+
+* Heavily inspired by MAS
