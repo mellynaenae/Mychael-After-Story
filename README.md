@@ -1,8 +1,11 @@
 # Mychael-After-Story
-!! THIS IS STILL A MAJOR WIP, BETA TESTING IS SET TO START AFTER THE RELEASE OF DAY 4 OF MO !!
 
-All images, fonts, audios, GUIs, etc. in this mod do NOT belong to me, everything belongs to DeersphereStudios. Check them out on itch.io: https://deerspherestudios.itch.io/
+> **STRICT DISCLAIMER**
+> **UNNOFFICIAL PROJECT:** This is a strictly unofficial, fan-made mod. It is not affiliated with, endorsed by, or associated with Deersphere Studios.
 
-It is reccommended you play Mushroom Oasis before playing Mychael After Story. Check it out here: https://deerspherestudios.itch.io/mushroom-oasis
+## Overview
+MYCAS (Mychael After Story) is a mod created for the sole purpose of spending time with Mychael, getting tk know him more, and include what wasn't included in the game. Unlike MAS, Mychael stays unknowing that he is in a game as to stay true to the base game.
 
-Heavily inspired by Monika After Story
+## Acknowledgements & Credits
+* **[Deersphere Studios](https://deerspherestudios.itch.io/): ** For creating the incredible *Mushroom Oasis!*
+* ** [Mushroom Oasis](https://deerspherestudios.itch.io/mushroom-oasis): ** Play *Mushroom Oasis* here!
