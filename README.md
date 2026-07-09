@@ -2,7 +2,7 @@
 
 > **STRICT DISCLAIMER**
 
-> ** PLEASE PLAY MUSHROOM OASIS BEFORE MYCAS!**
+> **PLEASE PLAY MUSHROOM OASIS BEFORE MYCAS!**
 
 > **UNNOFFICIAL PROJECT:** This is a strictly unofficial, fan-made mod. It is not affiliated with, endorsed by, or associated with Deersphere Studios.
 
