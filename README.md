@@ -1,7 +1,9 @@
 # Mychael-After-Story
 
 > **STRICT DISCLAIMER**
+
 > **UNNOFFICIAL PROJECT:** This is a strictly unofficial, fan-made mod. It is not affiliated with, endorsed by, or associated with Deersphere Studios.
+
 > **ASSETS DISCLAIMER:** I DO NOT OWN ANY ASSETS IN THE GAME (GUIs, Audios, Cgs, Sprites, Bgs, Buttons, etc, etc.) ALL CREDIT GOES TO **[Deersphere Studios](https://deerspherestudios.itch.io/)**. The beginning intro from MO was included as a recap.
 
 ## Overview
